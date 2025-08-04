@@ -1,5 +1,7 @@
 # 🌍 HTML-CSS | Reiseführer Website
 
+[!Link](https://reiseplan.netlify.app/)
+
 ## 🇬🇧 English
 
 This project is a **travel guide website** built using **pure HTML and CSS**. Each city is represented as a tab, and users can switch between them **without using JavaScript** — the interactivity is fully handled with CSS.
@@ -43,25 +45,3 @@ CSS3
 
 Google Fonts
 
-Nutzung
-Repository klonen:
-
-bash
-Kopyala
-Düzenle
-git clone https://github.com/deinbenutzername/reisefuehrer-website.git
-index.html im Browser öffnen.
-
-📁 Folder Structure / Projektstruktur
-arduino
-Kopyala
-Düzenle
-├── index.html
-├── style.css
-└── image/
-    ├── kassel/
-    ├── rudesheim/
-    └── doga.jpg
-📄 License / Lizenz
-This project is for personal or educational use.
-Dieses Projekt ist für den persönlichen oder schulischen Gebrauch gedacht.
